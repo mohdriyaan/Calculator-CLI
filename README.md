@@ -1,15 +1,14 @@
-# Calculator-CLI
+<h1>Calculator-CLI</h1>
 
 A simple command-line interface (CLI) calculator that allows you to perform basic mathematical calculations without the need for a graphical user interface. This calculator CLI provides a convenient way to perform calculations directly from your command prompt or terminal.
 
 <h2>Features</h2>
-<li>
-<ol>Supports addition, subtraction, multiplication, and division operations.</ol>
-<ol>Handles both integer and floating-point numbers.</ol>
-<ol>Accepts multiple inputs in a single command.</ol>
-<ol>Provides a clear and concise output of the calculated result.</ol>
-<ol>Supports parentheses for grouping expressions and controlling the order of operations.</ol>
-</li>
+
+1. Supports addition, subtraction, multiplication, and division operations.
+2. Handles both integer and floating-point numbers.
+3. Accepts multiple inputs in a single command.
+4. Provides a clear and concise output of the calculated result.
+5. Supports parentheses for grouping expressions and controlling the order of operations.
 
 <h2>Getting Started</h2>
 
